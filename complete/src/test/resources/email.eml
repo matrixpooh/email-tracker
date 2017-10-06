@@ -1,0 +1,539 @@
+Return-Path: <void-bounce-motif=gmx.com@express.medallia.com>
+Received: from inap221.mx.medallia.com ([199.102.178.221]) by mx-ha.gmx.net
+ (mxgmx010 [212.227.15.10]) with ESMTPS (Nemesis) id 0MDE6O-1dg4a2139A-00GYo0
+ for <motif@gmx.com>; Thu, 07 Sep 2017 17:21:26 +0200
+Received: from mx.medallia.com (localhost [127.0.0.1])
+	by mx.medallia.com (SMTP) with ESMTP id AD9B77C3755
+	for <motif@gmx.com>; Thu,  7 Sep 2017 08:21:24 -0700 (PDT)
+Received: from express.medallia.com (nsmip.medallia.com [10.30.120.51])
+	by mx.medallia.com (SMTP) with ESMTP id 973C17C2C90
+	for <motif@gmx.com>; Thu,  7 Sep 2017 08:21:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=medallia.com;
+	s=default; t=1504797684;
+	bh=YoO/AhGJIixBkbbLEQj0nhWdv/yV3A6ONQHRxoPfk9g=; h=From:Subject;
+	b=B6YDD59UTDNg+B4LU5bimoXosrEMof7N2O3O5RaI4dAqCxQQffLJF9iTuk6xxbevn
+	 sNVO+A4Uem1fr08H0Ox8EgqmCuwGiEet4j+NEMVhCl9eFiSH19fydNp26saOihRp0j
+	 IAgdP0ElpL92n7+0sQMtOUPfnV5Oc9WCgp3zwEnc=
+Date: Thu, 7 Sep 2017 08:20:40 -0700 (PDT)
+From: Apple Store <apple@express.medallia.com>
+To: Alla Nadein <motif@gmx.com>
+Message-ID: <j7alnw0a.p87ztowahyat@express.medallia.com>
+Subject: How was your experience with Billy?
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_89436_1953269686.1504797640244"
+X-Mail-Sequence: 1233632
+X-Virus-Scanned: ClamAV
+Envelope-To: <motif@gmx.com>
+X-GMX-Antispam: 0 (Mail was not recognized as spam); Detail=V3;
+X-UI-Filterresults: notjunk:1;V01:K0:NHmqx+2uf3U=:28CDUHrvcxITDXp6CFFiZ5D4VC
+ /R+FsYqMKXjnAQdBP+LvmO/X/A+XGcwFo4aGMwfw16SIJ5DjfyKG7pGGAEQrmnbz0BfIo1hNL
+ uo4IrbMKxwZYRIu4fxyx5aBItv8tmrmCd30rnNYk6h903cghMVAXu7AqjBb4UN6yzq8cFm90m
+ /ApdX4cieXSqLFN5P99w3p3zcOiYnnbVKN19KMSngMKJuQPYOYByJ+iqNNlLFJfkQ/DCIPeSd
+ x/HyM/ejqrC50D8vk8Pr+mpRph24PhoSJNTSUKQV9gbpQj9c7faVuinZ/8nm5amTpHf/97LnH
+ gZlNYDRy+/l0Slxpww+lE6oPBpIa0LSkGlix+vY4EVlvtm+rJgpo0uFUKedBuxLH6DPNL5PC8
+ uyoNHUFkOAbOVCRG/NZQ2cwR06+50c/lz+V8uP4A07zFMjHw9Oc2naYh0SqyJLD2MF7XK7k8y
+ 278ho4VJClDVu2dA8T6nHdClqQcw1hnGEhfqmphbypqUyr8F2iJgj/8W0kuq8RiDdf5BmRG+f
+ cabHU8s95pYIztbLo+E42+m07I3kCiC27Ha3B6JnCznqfMX4wWPWkhTw0RTJ+7UY0kAmcrjp+
+ DJtYcAwoJTpB3JcHVGZEJ6wS3JsGF1d151S5LbSGZ5hvKS3hGgqx++FMjpfaKg94GZg0uNJUw
+ HatvTIJNhVwjbdAsFVH/FCfkVubAvsbsQsxnRJ4k6JrQp8mVget64YzSjTiV+FmfTNAzxek90
+ v9jyCfMEQU7OxiR07sQoco9akbj9SklfupQQDgRz3nae39XzX1UBNNCsSTjmW/TozGvO0ThZs
+ iDOZDexyXvGwvyw4e2v+kCnDYiCaL7hRowB1msLRqQuCk1fXLO+28HI1q4vjq77eSoz8v+rpK
+ +yrtHXbukFFUToFz9p8EaRe3uAH3vgI58sJ7cDn9WNP3fCMcXyfyJ93rYIcziWb/eaoQmDrsY
+ Y40dL74BSp1IQPRJ5y3dFVfSU07h0lyJaw5N9gg62VmJwX0+HXogRRyrlEmCS7jaES52Zil5A
+ /hXYuSA4XYJr/SQUFRfJG76pjeaGyvkrrTDSp8LrA409uC8Dp0np8334ueej5nP9TGaKC2t/g
+ iz8QtIgktINJNnYoTLQ84kiZZDaJ5F7S8QUUePuY67YRpxh14RBI3R3LY5B7OYc28yZuvcIjI
+ 9fzpF6f1nxvPzoIa5vejQibFtdmdrGGpAbUGAv2lxfWRvnzBmpz9D/oiYAyP2zEtwub5NR97D
+ Bz75z6SfnRx+Qn2yIl1GePz1pS1opVVBxwDiz6lLWMzS+6STzle0g4doInh7DKGu7Miiu632L
+ kC9hyQS5LdEJce9lLTiz71C/OYWgZvKaMgWYE12rPzKUjJfIf5n089AZPVgfoFPF9WDs0kS/y
+ 6C91WCxF1uxRxcxzOJLG4P/arBcoNBFyjWUNxJdLO8jLwdgXX/oRPEnSOBSk5ciRXsbm48Quh
+ 43wW0PfhErGFsdScr75b8MinvPQQhZ9u+zXuTfNtWk/Ftfq/ssza7aVwoSjQqNDkGWmC9VKY4
+ ANiN0RKxUyGSJSkkQCuE48BvwnhWnBV+GGjbMiTdMw4XsXxJKX15vGowVgf6ZZ/5/QxihpT3y
+ 8bvpACd0kLijPvIS8WJ3+h677N4BWuMDsr8yeoxoT6kK0ibZMvPDFbCbzI+6KM+kBN9uGjNcD
+ wMNe78gzS11WiUfSEt2uC+Ck7nkCYZkzl/0shRbfPwyXQx3CjS07Tx5NbTOTE1AI1flTxwxN7
+ u2JkCzUn+wT15PSQLK/H/yzMw4+8ynBNArMRKLfCbuvbiK5w4Ty6TRBnQ=
+
+------=_Part_89436_1953269686.1504797640244
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+How did Billy do?
+Rate your shopping experience at the Apple Store.=20
+
+Take the survey:=20
+http://survey.medallia.com/?ekvv9k2h2kvpyrbtxwsmht&lng=3Den_US
+
+You must be 15 years of age or older to participate.
+
+Need help or have a comment about this survey? Click here: retailresearch@a=
+pple.com
+
+TM and =C2=A9 Apple Inc. 1 Infinite Loop, MS 303-4CA, Cupertino, CA 95014
+
+All Rights Reserved: http://www.apple.com/legal/
+
+Privacy Policy: http://www.apple.com/privacy/privacy-policy/
+
+As explained in Apple's Privacy Policy, we may use your personal informatio=
+n to contact you to participate in market research surveys. Participation i=
+n this or any Apple survey is optional. Unsubscribe from surveys here: http=
+://mynews.apple.com/survey/unsubscribe?v=3D2&la=3Den_us&a=3D%2BjZUWluSDkEWE=
+bqViUdb515a6bYCN%2FENh4LcgqO7i2Q%3D
+
+------=_Part_89436_1953269686.1504797640244
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<br/>
+<center></center>
+
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w=
+ww.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"=
+ />
+=09<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />=20
+=09<title>Help us help you better.</title>
+<style type=3D"text/css">
+=09/* Myriad Web */
+=09@font-face {
+=09=09font-family:'MyriadSetProExtraThin';
+=09=09src:url("http://static.medallia.com/~applefonts/MyriadSetPro/myriad-s=
+et-pro_extrathin.woff") format("woff"),
+=09=09url("http://static.medallia.com/~applefonts/MyriadSetPro/myriad-set-p=
+ro_extrathin.ttf") format("truetype");
+=09=09font-weight:normal;
+=09=09font-style:normal;
+=09=09/* Copyright (c) 1992 Adobe Systems Incorporated. All Rights Reserved=
+. Myriad is a trademark of Adobe Systems Incorporated. */
+=09}
+=09
+=09@font-face {
+=09=09font-family:'MyriadSetProThin';
+=09=09src:url("http://static.medallia.com/~applefonts/MyriadSetPro/myriad-s=
+et-pro_thin.woff") format("woff"),
+=09=09url("http://static.medallia.com/~applefonts/MyriadSetPro/myriad-set-p=
+ro_thin.ttf") format("truetype");
+=09=09font-weight:normal;
+=09=09font-style:normal;
+=09=09/* Copyright (c) 1992 Adobe Systems Incorporated. All Rights Reserved=
+. Myriad is a trademark of Adobe Systems Incorporated. */
+=09}
+=09@font-face {
+=09=09font-family:'MyriadSetPro';
+=09=09src:url("http://static.medallia.com/~applefonts/MyriadSetPro/myriad-s=
+et-pro_text.woff") format("woff"),
+=09=09url("http://static.medallia.com/~applefonts/MyriadSetPro/myriad-set-p=
+ro_text.ttf") format("truetype");
+=09=09font-weight:normal;
+=09=09font-style:normal;
+=09=09/* Copyright (c) 1992 Adobe Systems Incorporated. All Rights Reserved=
+. Myriad is a trademark of Adobe Systems Incorporated. */
+=09}
+=09
+=09
+=09
+=09.ReadMsgBody {
+=09=09width: 100%;
+=09=09background-color: #ffffff;
+=09}
+
+=09.ExternalClass {
+=09=09width: 100%;
+=09=09background-color: #ffffff;
+=09}
+
+=09body {
+=09=09width: 100%;
+=09=09background-color: #ffffff;
+=09=09margin: 0;
+=09=09padding: 0;
+=09=09-webkit-font-smoothing: antialiased;
+=09=09-moz-osx-font-smoothing: grayscale;
+=09}
+=09
+=09a{text-decoration:none;color:#666666;}
+=09a:hover{text-decoration:underline;}
+=09a,a.aapl-link,a.aapl-link:link {text-decoration:none}
+=09a.aapl-link:hover {text-decoration:underline}
+
+=09table {
+=09=09border-collapse: collapse;
+=09}
+=09
+=09.mailmessagepane body {margin: 0 auto;}
+=09body {background: #fffffff; margin: 0 auto; width: 100% }
+
+=09@media only screen and (max-width: 768px) {
+=09
+=09=09body[yahoo] * {
+=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09
+=09=09body .padding20{
+=09=09=09padding-left:0px!important;
+=09=09=09padding-right:0px!important;
+=09=09}
+=09=09
+=09=09.copyrightalign {
+=09=09=09text-align: center!important;
+=09=09}
+=09=09
+=09=09
+=09}
+
+=09@media only screen and (max-width: 480px) {
+=09=09body[yahoo] .deviceWidth {
+=09=09=09width: 100%!important;
+=09=09=09padding: 0;
+=09=09=09min-width:0!important;
+=09=09}
+=09=09body[yahoo] * {
+=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09
+=09=09body[yahoo]  .padding20{
+=09=09=09padding-left:20px!important;
+=09=09=09padding-right:20px!important;
+=09=09}
+=09=09body[yahoo] .padding0{
+=09=09=09padding-left:0px!important;
+=09=09=09padding-right:0px!important;
+=09=09}
+=09=09
+=09=09.copyrightalign {
+=09=09=09text-align: left!important;
+=09=09}
+=09=09
+=09=09table.mobilewidth {
+=09=09=09max-width: 280px!important;
+=09=09}
+=09=09
+=09=09td.mrate1line {
+=09=09=09width: 56px!important;
+=09=09=09padding-bottom: 14px!important;
+=09=09}
+=09=09
+=09=09td.mrate2line {
+=09=09=09padding-left: 8px!important;
+=09=09=09padding-right: 8px!important;
+=09=09}
+=09=09
+=09=09.rwd-break{
+=09=09=09display: none;
+=09=09}
+=09}
+=09
+</style>=20
+
+<!-- hide from outlook -->
+<!--[if !mso]><!-->
+<style type=3D"text/css">
+=09
+=09h2 {
+=09=09font-family:'MyriadSetProThin', -apple-system, 'Myriad Pro', Helvetic=
+a, Arial, Lucida Sans Unicode, Verdana, sans-serif !important;
+=09=09font-style:normal!important;
+=09=09font-weight:normal!important;
+=09}
+=09
+=09p {
+=09=09font-family:Lucida Grande, -apple-system, 'Myriad Pro', Helvetica, Ar=
+ial, sans-serif !important;
+=09=09font-style:normal!important;
+=09=09font-weight:normal!important;
+=09}
+=09
+=09h1 {
+=09=09=09font-family: 'MyriadSetProExtraThin', -apple-system, 'Myriad Pro',=
+ Helvetica, Arial, Lucida Sans Unicode, Verdana, sans-serif !important;
+=09=09=09font-weight:normal!important;
+=09=09=09font-style:normal!important;
+=09=09=09font-size: 58px !important;
+=09=09=09/* letter-spacing:-1px; */
+=09}
+=09
+=09h2 {
+=09=09=09font-size: 42px!important;
+=09}
+=09
+=09p.copyright { font-size: 9px !important; }
+=09
+=09@media only screen and (max-width: 768px) {
+=09
+=09=09
+=09=09
+=09=09p.rating {
+=09=09=09font-size: 13px !important;
+=09=09}
+=09
+=09}
+=09
+=09@media only screen and (max-width: 480px) {
+=09=09h1 {
+=09=09=09font-family: 'MyriadSetProExtraThin', -apple-system, 'Myriad Pro',=
+ Helvetica, Arial, Lucida Sans Unicode, Verdana, sans-serif !important;
+=09=09=09font-weight:normal!important;
+=09=09=09font-style:normal!important;
+=09=09=09font-size:40px !important;
+=09=09=09max-width: 280px !important;
+=09=09=09margin-bottom: 8px !important;
+=09=09=09line-height: 44px !important;
+=09=09}
+=09
+=09=09h2 {
+=09=09=09font-size:25px !important;
+=09=09=09max-width: 300px!important;
+=09=09=09line-height: 28px !important;
+=09=09}
+
+=09
+=09=09p.bodycopy {
+=09=09=09max-width: 200px !important;
+=09=09=09line-height: 16px !important;
+=09=09}
+=09=09
+=09=09p.rating {
+=09=09=09font-size: 12px !important;
+=09=09}
+=09=09
+=09=09.mbodypad {
+=09=09=09padding-top: 32px !important;
+=09=09=09padding-bottom: 23px !important;
+=09=09}
+=09=09
+=09=09.mheadpad {
+=09=09=09padding-top: 39px !important;
+=09=09=09padding-bottom: 38px !important;
+=09=09}
+=09=09
+=09=09.mcopypad {
+=09=09=09padding-top: 12px !important;
+=09=09=09padding-bottom: 40px !important;
+=09=09}
+=09
+=09}
+=09
+=09
+=09
+=09
+</style>
+<!--<![endif]-->
+
+</head>
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0"=
+ yahoo=3D"fix">
+<a name=3D"31"></a>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgco=
+lor=3D"#ffffff" align=3D"center" valign=3D"top">
+<tr>
+=09<td width=3D"100%" align=3D"center" valign=3D"top" bgcolor=3D"#ffffff" s=
+tyle=3D"padding-bottom: 25px;">
+<!-- Start Header-->
+=09=09<table width=3D"700" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ align=3D"center" class=3D"deviceWidth">
+=09=09<tr>
+=09=09=09<td align=3D"center">
+<!-- Logo -->
+=09=09=09=09<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" align=3D"left" style=3D"width:100%!important">
+=09=09=09=09<tr>
+=09=09=09=09=09<td style=3D"padding-top: 20px;" align=3D"left" class=3D"pad=
+ding20">
+=09=09=09=09=09=09=09<img src=3D"http://survey.medallia.com/sfilemanager/7c=
+84f96c00e85e80e1c467d2e156a575.png" alt=3D"Apple" width=3D"20" height=3D"25=
+" border=3D"0" style=3D"display:block;margin: 0;" />
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+<!-- End Logo -->
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09=09<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0">
+=09=09=09=09<tr>
+=09=09=09=09=09<td style=3D"padding-top: 25px; padding-bottom: 52px;" align=
+=3D"center" valign=3D"top"  class=3D"padding20 mheadpad">
+=09=09=09=09=09=09<!-- MOBILE VERSION HAS MAX-WIDTH SET. SEE CODE IN HEAD A=
+BOVE TO CHANGE. -->
+=09=09=09=09=09=09<h1 style=3D"margin-top:0; margin-bottom:15px; font-famil=
+y: MyriadSetProExtraThin, -apple-system, 'Myriad Pro', Helvetica, Arial, Lu=
+cida Sans Unicode, Verdana, sans-serif; font-size: 47px; line-height: 1.1em=
+; font-weight: 100;color: #333333;">How did Billy do?</h1>
+=09=09=09=09=09=09<!-- MOBILE VERSION HAS MAX-WIDTH SET. SEE CODE IN HEAD A=
+BOVE TO CHANGE. -->
+=09=09=09=09=09=09<h2 style=3D"margin: 0; font-family: MyriadSetProThin, -a=
+pple-system, 'Myriad Pro', Helvetica, Arial, Lucida Sans Unicode, Verdana, =
+sans-serif; font-size: 30px; line-height: 1.1em; font-weight: 200; color: #=
+333333;">Rate your shopping experience at the Apple Store.</h2>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09=09<!-- MOBILE VERSION HAS TABLE MAX-WIDTH SET. SEE CODE IN HEAD A=
+BOVE TO CHANGE. -->
+=09=09=09=09<table width=3D"420" cellpadding=3D"0" class=3D"mobilewidth" ce=
+llspacing=3D"0">
+=09=09=09=09<tr>
+=09=09=09=09=09<td class=3D"mrate1line" width=3D"84" align=3D"center" valig=
+n=3D"top" style=3D"padding-bottom: 18px;">
+=09=09=09=09=09=09<p class=3D"rating" style=3D"margin: 0; font-family: Myri=
+adSetPro, -apple-system, 'Myriad Pro', Helvetica, Arial, Lucida Sans Unicod=
+e, Verdana, sans-serif; font-size: 13px; line-height: 1.1em; color: #0070c9=
+;">Poor</p>
+=09=09=09=09=09=09
+=09=09=09=09=09</td>
+=09=09=09=09=09<td class=3D"mrate1line"  width=3D"84" style=3D"padding-bott=
+om: 18px;">
+=09=09=09=09=09
+=09=09=09=09=09</td>
+=09=09=09=09=09<td class=3D"mrate1line"  width=3D"84" style=3D"padding-bott=
+om: 18px;">
+=09=09=09=09=09
+=09=09=09=09=09</td>
+=09=09=09=09=09<td class=3D"mrate1line"  width=3D"84" style=3D"padding-bott=
+om: 18px;">
+=09=09=09=09=09
+=09=09=09=09=09</td>
+=09=09=09=09=09<td class=3D"mrate1line"  width=3D"84" align=3D"center" vali=
+gn=3D"top" style=3D"padding-bottom: 18px;">
+=09=09=09=09=09=09<p class=3D"rating" style=3D"margin: 0; font-family: Myri=
+adSetPro, -apple-system, 'Myriad Pro', Helvetica, Arial, Lucida Sans Unicod=
+e, Verdana, sans-serif; font-size: 13px; line-height: 1.1em; color: #0070c9=
+;">Excellent</p>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09<tr>
+=09=09=09=09=09<td class=3D"mrate2line" width=3D"40" align=3D"center" valig=
+n=3D"top" style=3D"padding-left: 22px; padding-right: 22px;">
+=09=09=09=09=09=09<a href=3D"http://survey.medallia.com/?ekvv9k2h2kvpyrbtxw=
+smht&lng=3Den_US&_score=3D1">
+=09=09=09=09=09=09<img src=3D"http://survey.medallia.com/sfilemanager/17c3d=
+6c7e0f9388c83dc7e52b11618ed.png" width=3D"40" height=3D"40" alt=3D"1" borde=
+r=3D"0" style=3D"margin: 0; display: block;" />
+=09=09=09=09=09=09</a>
+=09=09=09=09=09</td>
+=09=09=09=09=09<td class=3D"mrate2line" width=3D"40" align=3D"center" valig=
+n=3D"top" style=3D"padding-left: 22px; padding-right: 22px;">
+=09=09=09=09=09=09<a href=3D"http://survey.medallia.com/?ekvv9k2h2kvpyrbtxw=
+smht&lng=3Den_US&_score=3D2">
+=09=09=09=09=09=09<img src=3D"http://survey.medallia.com/sfilemanager/fc916=
+acb191ddfc227fe7f2d7131ecfa.png" width=3D"40" height=3D"40" alt=3D"2" borde=
+r=3D"0" style=3D"margin: 0; display: block;" />
+=09=09=09=09=09=09</a>
+=09=09=09=09=09</td>
+=09=09=09=09=09<td class=3D"mrate2line" width=3D"40" align=3D"center" valig=
+n=3D"top" style=3D"padding-left: 22px; padding-right: 22px;">
+=09=09=09=09=09=09<a href=3D"http://survey.medallia.com/?ekvv9k2h2kvpyrbtxw=
+smht&lng=3Den_US&_score=3D3">
+=09=09=09=09=09=09<img src=3D"http://survey.medallia.com/sfilemanager/6338c=
+753f92a5fd6355f1eead8a77561.png" width=3D"40" height=3D"40" alt=3D"3" borde=
+r=3D"0" style=3D"margin: 0; display: block;" />
+=09=09=09=09=09=09</a>
+=09=09=09=09=09</td>
+=09=09=09=09=09<td class=3D"mrate2line" width=3D"40" align=3D"center" valig=
+n=3D"top" style=3D"padding-left: 22px; padding-right: 22px;">
+=09=09=09=09=09=09<a href=3D"http://survey.medallia.com/?ekvv9k2h2kvpyrbtxw=
+smht&lng=3Den_US&_score=3D4">
+=09=09=09=09=09=09<img src=3D"http://survey.medallia.com/sfilemanager/bd23c=
+a8f41bfc7241620e2526f25020e.png" width=3D"40" height=3D"40" alt=3D"4" borde=
+r=3D"0" style=3D"margin: 0; display: block;" />
+=09=09=09=09=09=09</a>
+=09=09=09=09=09</td>
+=09=09=09=09=09<td class=3D"mrate2line" width=3D"40" align=3D"center" valig=
+n=3D"top" style=3D"padding-left: 22px; padding-right: 22px;">
+=09=09=09=09=09=09<a href=3D"http://survey.medallia.com/?ekvv9k2h2kvpyrbtxw=
+smht&lng=3Den_US&_score=3D5">
+=09=09=09=09=09=09<img src=3D"http://survey.medallia.com/sfilemanager/e2889=
+ee3dd67878bce1140e7f60f0bc2.png" width=3D"40" height=3D"40" alt=3D"5" borde=
+r=3D"0" style=3D"margin: 0; display: block;" />
+=09=09=09=09=09=09</a>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" style=3D"padding-top: 54px; padding-bottom: 4=
+5px;" class=3D"mbodypad">
+=09=09=09=09<!-- MOBILE VERSION HAS MAX-WIDTH SET. SEE CODE IN HEAD ABOVE T=
+O CHANGE. -->
+=09=09=09=09<p class=3D"bodycopy" style=3D"margin: 0; font-family: 'Lucida =
+Grande Regular', -apple-system, 'Myriad Pro', Helvetica, Arial, Lucida Sans=
+ Unicode, Verdana, sans-serif; font-size: 12px; line-height: 1.1em; color: =
+#666666;">Click or tap to answer, and then continue taking the survey.</p>
+=09=09=09</td>
+=09=09</tr>
+=09=09</table>
+=09</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgco=
+lor=3D"#f2f2f2" align=3D"center" valign=3D"top"  >
+<tr>
+=09<td width=3D"100%" align=3D"center" valign=3D"top" bgcolor=3D"#f2f2f2" s=
+tyle=3D"padding-top: 21px; padding-bottom: 32px;" class=3D"mcopypad">
+=09=09<table width=3D"700"  class=3D"deviceWidth">
+=09=09<tr>
+=09=09=09<td width=3D"100%" valign=3D"top" align=3D"center" class=3D"paddin=
+g20">
+=09=09=09<p class=3D"copyright copyrightalign" style=3D"margin-top:0; margi=
+n-bottom:12px; font-family: 'Lucida Grande Regular', -apple-system, 'Myriad=
+ Pro', Helvetica, Arial, Lucida Sans Unicode, Verdana, sans-serif; font-siz=
+e: 9px; line-height: 1.5em; color: #999999;">You must be 15 years of age or=
+ older to participate. If you are having trouble viewing images, click the =
+following URL or copy and paste it into your web browser: <a href=3D"http:/=
+/survey.medallia.com/?ekvv9k2h2kvpyrbtxwsmht&lng=3Den_US" style=3D"color: #=
+666666; text-decoration: none;">http://survey.medallia.com/?ekvv9k2h2kvpyrb=
+txwsmht&lng=3Den_US</a>.</p>
+=09=09=09<p class=3D"copyright copyrightalign" style=3D"margin-top:0; margi=
+n-bottom:12px; font-family: 'Lucida Grande Regular', -apple-system, 'Myriad=
+ Pro', Helvetica, Arial, Lucida Sans Unicode, Verdana, sans-serif; font-siz=
+e: 9px; line-height: 1.5em; color: #999999;">Need help or have a comment ab=
+out this survey? <a href=3D"mailto:retailresearch@apple.com?subject=3DRecen=
+t Feedback" style=3D"color: #666666; text-decoration: none;">Click here.</a=
+></p>
+=09=09=09<p class=3D"copyright  copyrightalign" style=3D"margin-top:0; marg=
+in-bottom:12px; font-family: 'Lucida Grande Regular', -apple-system, 'Myria=
+d Pro', Helvetica, Arial, Lucida Sans Unicode, Verdana, sans-serif; font-si=
+ze: 9px; line-height: 1.5em; color: #999999;">TM and =C2=A9 Apple Inc. 1 In=
+finite Loop, MS 303-4CA, Cupertino, CA 95014</p>
+=09=09=09<p class=3D"copyright copyrightalign" style=3D"margin-top:0; margi=
+n-bottom:12px; font-family: 'Lucida Grande Regular', -apple-system, 'Myriad=
+ Pro', Helvetica, Arial, Lucida Sans Unicode, Verdana, sans-serif; font-siz=
+e: 9px; line-height: 1.5em; color: #999999;"><a href=3D"http://www.apple.co=
+m/legal/" style=3D"color: #666666; text-decoration: none;">All Rights Reser=
+ved</a>&emsp;|&emsp;<a href=3D"http://www.apple.com/privacy/privacy-policy/=
+" style=3D"color: #666666; text-decoration: none;">Privacy Policy</a></p>
+=09=09=09<p class=3D"copyright copyrightalign" style=3D"margin-top:0; margi=
+n-bottom:0; font-family: 'Lucida Grande Regular', -apple-system, 'Myriad Pr=
+o', Helvetica, Arial, Lucida Sans Unicode, Verdana, sans-serif; font-size: =
+9px; line-height: 1.5em; color: #999999; max-width: 560px;">As explained in=
+ Apple&rsquo;s Privacy Policy, we may use your personal information to cont=
+act you to participate in <br class=3D"rwd-break" />market research surveys=
+. Participation in this or any Apple survey is optional. Unsubscribe from s=
+urveys <a href=3D"http://mynews.apple.com/survey/unsubscribe?v=3D2&la=3Den_=
+us&a=3D%2BjZUWluSDkEWEbqViUdb515a6bYCN%2FENh4LcgqO7i2Q%3D" style=3D"color: =
+#666666; text-decoration: none;">here</a>.</p>
+=09=09=09
+=09=09=09</td>
+=09=09</tr>
+=09=09</table>
+=09</td>
+</tr>
+</table>
+
+<!-- End Wrapper -->
+<img src=3D"https://survey.medallia.com/?ekvv9k2h2kvpyrbtxwsmht&invite-open=
+ed=3Dyes" width=3D"0" height=3D"0" style=3D"display: none !important;" alt=
+=3D"">
+</body>
+</html></p>
+------=_Part_89436_1953269686.1504797640244--
